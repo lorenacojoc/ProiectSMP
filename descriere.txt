@@ -1,0 +1,15 @@
+Cojoc Lorena 
+Grupa 332AA
+
+Va fi afisat un meniu cu 4 optiuni:
+
+-daca se apasa tasta 1, va aparea o animatie care imita o masina in miscare
+-daca se apasa tasta 2, exista optiunea de a se schimba culoarea fundalului;
+	-acest lucru se intampla atunci cand se apasa tasta 1
+	-la apasarea oricarei alte taste,va fi afisat meniul
+-daca se apasa tasta 3, va aparea o animatie in care un patrat se misca pe ecan 
+	-acest lucru se intampla daca va fi apasata tasta "r"
+	-patratul se misca spre dreapta,apoi coboara si se misca spre stanga
+-in cazul in care se apasa tasta 4,se va termina programul si se va auzi un beep 
+
+Am adaugat proiectul si pe Github : https://github.com/lorenacojoc/proiectSMP
